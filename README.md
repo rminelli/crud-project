@@ -1,5 +1,5 @@
 # Crud Project
-## Javascript CRUD project using React and full fake REST API with JSON Server
+## JavaScript CRUD project using React and full fake REST API with JSON Server
 
 
 [![prettier](https://img.shields.io/badge/styled%20with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -7,10 +7,9 @@
 
 This project was created with:
 
-- Javascript
+- JavaScript
 - React
 - Json server
-
 
 ![](preview.gif)
 
