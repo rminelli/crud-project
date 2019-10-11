@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Roberto Minelli",
+      "email": "rminelli@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Steve Jobs",
+      "email": "sjobs@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Albert Einstein",
+      "email": "aeinsteni@gmail.com"
+    }
+  ]
+}
