@@ -1,4 +1,4 @@
-# crud-project
+# Crud Project
 ## Javascript CRUD project using React and full fake REST API with Json Server
 
 
@@ -9,7 +9,7 @@ This project was created with:
 
 - Javascript
 - React
-- Json Server
+- Json server
 
 
 ![](preview.gif)
@@ -21,7 +21,7 @@ This project was created with:
 $ git clone https://github.com/rminelli/crud-project
 
 # Go into the repository
-$ cd brastlewark-search
+$ cd crud-project
 
 # Backend
 $ cd backend
@@ -31,7 +31,7 @@ $ npm install
 
 # Run backend
 $ npm start
-Backend runs the with json-server
+Backend runs with json-server
 Resources: http://localhost:3001/users
 
 # Frontend
