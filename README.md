@@ -10,6 +10,7 @@ This project was created with:
 - JavaScript
 - React
 - Json server
+- Axios
 
 ![](preview.gif)
 
