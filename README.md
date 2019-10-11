@@ -16,7 +16,7 @@ This project was created with:
 
 ## How to Use
 
-```bash
+```Shell
 # Clone this repository
 $ git clone https://github.com/rminelli/crud-project
 
